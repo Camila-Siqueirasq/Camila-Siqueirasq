@@ -1,4 +1,4 @@
-# Oie! Eu sou a Camila R. Siqueira.
+# Oie! Eu sou a Camila.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada pelo universo dos Dados e Desenvolvimento de Software. Com experiência prévia em relacionamento com o cliente e treinamento de equipes, trago uma visão voltada para a resolução de problemas de negócios aliada a uma forte comunicação assertiva. 
 
