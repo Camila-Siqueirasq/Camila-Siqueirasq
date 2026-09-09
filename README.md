@@ -1,13 +1,7 @@
 # Oie! Eu sou a Camila.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada pelo universo dos Dados e Desenvolvimento de Software. Com experiência prévia em relacionamento com o cliente e treinamento de equipes, trago uma visão voltada para a resolução de problemas de negócios aliada a uma forte comunicação assertiva. 
-
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada pelo universo dos Dados e Desenvolvimento de Software.
 Meu grande objetivo é transformar dados em insights estratégicos e construir sistemas eficientes.
-
-### 🛠️ Minhas Habilidades e Tecnologias
-* **Linguagens e Análise:** Python, SQL, C/C++, JavaScript, HTML/CSS, php, Power BI, Excel.
-* **Bancos de Dados e Ferramentas:** MySQL, PostgreSQL, Microsoft SQL Server (Modelagem e Implementação), Git/GitHub, Figma, Draw.io.
-* **Soft Skills:** Proatividade, pensamento crítico e foco no aprendizado contínuo.
 
 ### 🚀 O que estou construindo
 Atualmente, estou desenvolvendo meu portfólio prático na área de dados, com foco em:
